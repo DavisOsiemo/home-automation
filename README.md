@@ -1,4 +1,4 @@
-# This piece of doc is courtesy to Jake Wright
+# Courtest of Jake Wright
 
 # Device Registry Service
 
