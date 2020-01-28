@@ -1,4 +1,4 @@
-# Courtest of Jake Wright
+# Courtesy of Jake Wright
 
 # Device Registry Service
 
